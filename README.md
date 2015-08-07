@@ -2,8 +2,7 @@
 
 ## Description
 
-This image is based on the
-[official Jenkins Docker image](https://hub.docker.com/_/jenkins/) but with
+This image is based on the [official Jenkins Docker image](https://hub.docker.com/_/jenkins/) but with
 some extra tools installed. The original image comes with a bare distribution,
 making it unusable if you want to run any serious job.
 
