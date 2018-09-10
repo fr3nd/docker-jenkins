@@ -1,4 +1,4 @@
-FROM jenkins:2.19.1
+FROM jenkins/jenkins:2.141
 MAINTAINER Carles Amigó, fr3nd@fr3nd.net
 
 ENV DOCKER_VERSION 1.8.2
